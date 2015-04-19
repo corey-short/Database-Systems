@@ -1,6 +1,6 @@
 # Database-Systems
-###CS186 Intro to Database Systems Projects
-
+### CS186 Intro to Database Systems Projects
+##### Skills learned:
 CSV file parsing
 
 Bash \& Python scripting
